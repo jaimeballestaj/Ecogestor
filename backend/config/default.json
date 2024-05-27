@@ -1,0 +1,10 @@
+{
+    "dbConfig": {
+      "host": "localhost",
+      "user": "root",
+      "password": "",
+      "database": "ecogestor"
+    },
+    "jwtSecret": "your_secret_key"
+  }
+  
